@@ -1,10 +1,14 @@
-name: Fetch
+name: Main
 on: [push]
 jobs:
-  download:
+  download-and-handle:
     runs-on: ubuntu-latest
     steps:
-      - run: date
-      - run: curl https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json --output data.json
-      - run: ls
-      - run: date
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+          cache: 'npm'
+      - run: npm ci
+      - run: curl https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json --output volna-mista.json
+      - run: npm start
