@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - main
-  cron: '22 0,12 * * *'
 jobs:
   download-and-handle:
     runs-on: ubuntu-latest
