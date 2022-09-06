@@ -1,5 +1,7 @@
 name: Main
-on: [push]
+on:
+  - push
+  - cron: '22 0,12 * * *'
 jobs:
   download-and-handle:
     runs-on: ubuntu-latest
