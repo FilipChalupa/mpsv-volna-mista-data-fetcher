@@ -4,5 +4,7 @@ jobs:
   download:
     runs-on: ubuntu-latest
     steps:
-      - run: curl https://svatky.adresa.info/json --output data.json
+      - run: date
+      - run: curl https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json --output data.json
       - run: ls
+      - run: date
