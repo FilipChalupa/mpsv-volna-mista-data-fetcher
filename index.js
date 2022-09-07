@@ -1,3 +1,6 @@
+import fs from 'fs/promises'
 import data from './volna-mista.json' assert { type: 'json' }
 
-console.log('Počet položek:', data.polozky.length)
+const output = data.polozky.slice(0, 10)
+
+fs.writeFile('output.json', JSON.stringify(output, null, 2))
