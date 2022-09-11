@@ -17,4 +17,4 @@ const output = data.polozky.filter((polozka) => {
 
 console.log('Počet:', output.length)
 
-fs.writeFile('output.json', JSON.stringify(output, null, 2))
+fs.writeFile('web/volna-mista.json', JSON.stringify(output, null, 2))

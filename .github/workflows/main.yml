@@ -9,11 +9,22 @@ jobs:
   download-and-handle:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - uses: actions/setup-node@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+
+      - name: Setup
+        uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: 'npm'
-      - run: npm ci
-      - run: curl https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json --output volna-mista.json
-      - run: npm start
+
+      - name: Run
+        run: |
+          npm ci
+          curl https://data.mpsv.cz/od/soubory/volna-mista/volna-mista.json --output volna-mista.json
+          npm start
+
+      - name: Deploy
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: web
