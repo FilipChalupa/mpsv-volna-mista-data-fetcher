@@ -4,7 +4,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: '22 0,12 * * *'
+    - cron: '22 6 * * 1,3,5'
 jobs:
   download-and-handle:
     runs-on: ubuntu-latest
