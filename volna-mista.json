@@ -465,161 +465,6 @@
     }
   },
   {
-    "portalId": 67128930,
-    "id": "VolneMisto/67128930",
-    "referencniCislo": "17566350704",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-02-18T00:00:00.000Z",
-    "datumZmeny": "2025-02-19T22:46:45.000Z",
-    "mesicniMzdaDo": 21500,
-    "mesicniMzdaOd": 21000,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 2,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-03-01",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Popková Zuzana, tel.: 731566777, e-mail: zuzana.popkova@gmai.com"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/bezVzdel"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": "zuzana.popkova@gmail.com",
-          "nazev": "AD Stillerová s.r.o. Lukavecká č.p. 1732",
-          "telefon": "731566777",
-          "adresa": {
-            "cisloDomovni": 1732,
-            "cisloOrientacni": null,
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 22446664,
-            "psc": null,
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": {
-              "id": "MestskyObvodMestskaCast/538213"
-            },
-            "mestskyObvodVPraze": {
-              "id": "MestskyObvodVPraze/94"
-            },
-            "castObce": {
-              "id": "CastObce/43770"
-            },
-            "ulice": {
-              "nazev": "Lukavecká"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "24231711",
-      "nazev": "AD Stillerová s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "zuzana.popkova@gmai.com",
-        "telefon": "731566777",
-        "jmeno": "Zuzana",
-        "prijmeni": "Popková",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": "účetní"
-      },
-      "kdeSeHlasit": {
-        "email": "acermak@sawan.cz",
-        "telefon": "725416136",
-        "mistoKontaktu": "AD Stillerová s.r.o.",
-        "adresa": {
-          "cisloDomovni": 1732,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22446664,
-          "psc": "19300",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/538213"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/94"
-          },
-          "castObce": {
-            "id": "CastObce/43770"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Lukavecká"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67130116,
     "id": "VolneMisto/67130116",
     "referencniCislo": "30793500788",
@@ -1079,6 +924,161 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Sazovická"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67128930,
+    "id": "VolneMisto/67128930",
+    "referencniCislo": "17566350704",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-02-18T00:00:00.000Z",
+    "datumZmeny": "2025-02-19T22:46:45.000Z",
+    "mesicniMzdaDo": 21500,
+    "mesicniMzdaOd": 21000,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 2,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-03-01",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Popková Zuzana, tel.: 731566777, e-mail: zuzana.popkova@gmai.com"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/bezVzdel"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": "zuzana.popkova@gmail.com",
+          "nazev": "AD Stillerová s.r.o. Lukavecká č.p. 1732",
+          "telefon": "731566777",
+          "adresa": {
+            "cisloDomovni": 1732,
+            "cisloOrientacni": null,
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 22446664,
+            "psc": null,
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": {
+              "id": "MestskyObvodMestskaCast/538213"
+            },
+            "mestskyObvodVPraze": {
+              "id": "MestskyObvodVPraze/94"
+            },
+            "castObce": {
+              "id": "CastObce/43770"
+            },
+            "ulice": {
+              "nazev": "Lukavecká"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "24231711",
+      "nazev": "AD Stillerová s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "zuzana.popkova@gmai.com",
+        "telefon": "731566777",
+        "jmeno": "Zuzana",
+        "prijmeni": "Popková",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": "účetní"
+      },
+      "kdeSeHlasit": {
+        "email": "acermak@sawan.cz",
+        "telefon": "725416136",
+        "mistoKontaktu": "AD Stillerová s.r.o.",
+        "adresa": {
+          "cisloDomovni": 1732,
+          "cisloOrientacni": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22446664,
+          "psc": "19300",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/538213"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/94"
+          },
+          "castObce": {
+            "id": "CastObce/43770"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Lukavecká"
           }
         }
       }
@@ -21197,160 +21197,6 @@
     }
   },
   {
-    "portalId": 67121221,
-    "id": "VolneMisto/67121221",
-    "referencniCislo": "30634840798",
-    "azylant": false,
-    "cizinecMimoEu": false,
-    "datumVlozeni": "2025-01-23T00:00:00.000Z",
-    "datumZmeny": "2025-01-24T18:48:22.000Z",
-    "mesicniMzdaDo": 8500,
-    "mesicniMzdaOd": 8000,
-    "modraKarta": false,
-    "pocetHodinTydne": 15,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidič/ka osobního automobilu"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": "2026-01-31",
-    "terminZahajeniPracovnihoPomeru": "2025-02-01",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "MÍSTO VYHRAZENÉ PRO OZP (s částečným invalidním  důchodem).\nPožadujeme ŘP sk. B.\nKontakt telefonicky, e-mailem. "
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": false,
-    "expirace": "2025-06-30",
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/nizsiStredOdbor"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Sdružení pro osobní asistenci a nezávislý život zdravotně postižených lidí, z.s.",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 2415,
-            "cisloOrientacni": null,
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 19819315,
-            "psc": null,
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/35"
-            },
-            "okres": {
-              "id": "Okres/3308"
-            },
-            "obec": {
-              "id": "Obec/552046"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": {
-              "id": "CastObce/405060"
-            },
-            "ulice": {
-              "nazev": "Kpt. Jaroše"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "65018729",
-      "nazev": "Sdružení pro osobní asistenci a nezávislý život zdravotně postižených lidí z.s."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/zkraceny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/OZP2"
-      },
-      {
-        "id": "VhodnostProTypZamestnance/OZP3"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/TAA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "soanz@email.cz",
-        "telefon": "723 037 964",
-        "jmeno": "Dana",
-        "prijmeni": "Lišková",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Sdružení pro osobní asistenci a nezávislý život zdravotně postižených lidí, z.s.",
-        "adresa": {
-          "cisloDomovni": 2415,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 19819315,
-          "psc": "39003",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/35"
-          },
-          "okres": {
-            "id": "Okres/3308"
-          },
-          "obec": {
-            "id": "Obec/552046"
-          },
-          "mestskyObvodMestskaCast": null,
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/405060"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Kpt. Jaroše"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67121223,
     "id": "VolneMisto/67121223",
     "referencniCislo": "30634920726",
@@ -21508,34 +21354,34 @@
     }
   },
   {
-    "portalId": 67121418,
-    "id": "VolneMisto/67121418",
-    "referencniCislo": "30634500716",
+    "portalId": 67121221,
+    "id": "VolneMisto/67121221",
+    "referencniCislo": "30634840798",
     "azylant": false,
     "cizinecMimoEu": false,
-    "datumVlozeni": "2025-01-24T00:00:00.000Z",
-    "datumZmeny": "2025-01-24T18:41:02.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 37500,
+    "datumVlozeni": "2025-01-23T00:00:00.000Z",
+    "datumZmeny": "2025-01-24T18:48:22.000Z",
+    "mesicniMzdaDo": 8500,
+    "mesicniMzdaOd": 8000,
     "modraKarta": false,
-    "pocetHodinTydne": null,
+    "pocetHodinTydne": 15,
     "pocetMist": 1,
     "pozadovanaProfese": {
-      "cs": "SKLADNÍK/CE - ŘIDIČ/KA"
+      "cs": "Řidič/ka osobního automobilu"
     },
     "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
+    "terminUkonceniPracovnihoPomeru": "2026-01-31",
     "terminZahajeniPracovnihoPomeru": "2025-02-01",
     "souhlasAgenturyAgentura": false,
     "souhlasAgenturyUzivatel": false,
     "upresnujiciInformace": {
-      "cs": "Pracovní poměr na dobu neurčitou.\n\nPožadujeme: řidičský průkaz sk.B\n\nZájemci se mohou hlásit telefonicky od 9:00 hod. do 15:00 hod."
+      "cs": "MÍSTO VYHRAZENÉ PRO OZP (s částečným invalidním  důchodem).\nPožadujeme ŘP sk. B.\nKontakt telefonicky, e-mailem. "
     },
     "urlAdresa": null,
     "zamestnaneckaKarta": false,
-    "expirace": "2025-04-30",
+    "expirace": "2025-06-30",
     "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+      "id": "VzdelaniDetailniKategorie/nizsiStredOdbor"
     },
     "smennost": {
       "id": "Smennost/jednoSm"
@@ -21556,78 +21402,72 @@
       "pracoviste": [
         {
           "email": null,
-          "nazev": "Víno Hulík s.r.o. - Činěves",
+          "nazev": "Sdružení pro osobní asistenci a nezávislý život zdravotně postižených lidí, z.s.",
           "telefon": null,
           "adresa": {
-            "cisloDomovni": 34,
+            "cisloDomovni": 2415,
             "cisloOrientacni": null,
             "dodatekAdresy": null,
-            "kodAdresnihoMista": 1101960,
-            "psc": "28901",
+            "kodAdresnihoMista": 19819315,
+            "psc": null,
             "typCislaDomovniho": {
               "id": "TypStavebnihoObjektu/1"
             },
             "kraj": {
-              "id": "Kraj/27"
+              "id": "Kraj/35"
             },
             "okres": {
-              "id": "Okres/3208"
+              "id": "Okres/3308"
             },
             "obec": {
-              "id": "Obec/537080"
+              "id": "Obec/552046"
             },
             "mestskyObvodMestskaCast": null,
             "mestskyObvodVPraze": null,
             "castObce": {
-              "id": "CastObce/23922"
+              "id": "CastObce/405060"
             },
-            "ulice": null
+            "ulice": {
+              "nazev": "Kpt. Jaroše"
+            }
           }
         }
       ]
     },
     "zamestnavatel": {
-      "ico": "29201144",
-      "nazev": "Víno Hulík s.r.o."
+      "ico": "65018729",
+      "nazev": "Sdružení pro osobní asistenci a nezávislý život zdravotně postižených lidí z.s."
     },
     "profeseCzIsco": {
       "id": "CzIsco/83221"
     },
     "pracovnePravniVztahy": [
       {
-        "id": "PracovnepravniVztah/plny"
+        "id": "PracovnepravniVztah/zkraceny"
       }
     ],
     "vhodnostiPracovnihoMista": [
       {
-        "id": "VhodnostProTypZamestnance/zdravi"
+        "id": "VhodnostProTypZamestnance/OZP2"
+      },
+      {
+        "id": "VhodnostProTypZamestnance/OZP3"
       }
     ],
     "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/NBA"
+      "id": "KontaktniPracoviste/TAA"
     },
     "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": [
-      {
-        "dovednost": {
-          "id": "Dovednost/91"
-        },
-        "popis": null
-      }
-    ],
+    "pozadovanaDovednost": null,
     "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": [
-      {
-        "id": "CzIsco/83221"
-      }
-    ],
+    "pozadovanePovolani": null,
     "pozadovaneVzdelani": null,
     "prvniKontaktSeZamestnavatelem": {
       "komuSeHlasit": {
-        "email": null,
-        "telefon": "737 440 580",
-        "jmeno": "Radim",
-        "prijmeni": "Hulík",
+        "email": "soanz@email.cz",
+        "telefon": "723 037 964",
+        "jmeno": "Dana",
+        "prijmeni": "Lišková",
         "titulPredJmenem": null,
         "titulZaJmenem": null,
         "poziceVeSpolecnosti": null
@@ -21635,32 +21475,34 @@
       "kdeSeHlasit": {
         "email": null,
         "telefon": null,
-        "mistoKontaktu": "Víno Hulík s.r.o. - Činěves",
+        "mistoKontaktu": "Sdružení pro osobní asistenci a nezávislý život zdravotně postižených lidí, z.s.",
         "adresa": {
-          "cisloDomovni": 34,
+          "cisloDomovni": 2415,
           "cisloOrientacni": null,
           "dodatekAdresy": null,
-          "kodAdresnihoMista": 1101960,
-          "psc": "28901",
+          "kodAdresnihoMista": 19819315,
+          "psc": "39003",
           "typCislaDomovniho": {
             "id": "TypStavebnihoObjektu/1"
           },
           "kraj": {
-            "id": "Kraj/27"
+            "id": "Kraj/35"
           },
           "okres": {
-            "id": "Okres/3208"
+            "id": "Okres/3308"
           },
           "obec": {
-            "id": "Obec/537080"
+            "id": "Obec/552046"
           },
           "mestskyObvodMestskaCast": null,
           "mestskyObvodVPraze": null,
           "castObce": {
-            "id": "CastObce/23922"
+            "id": "CastObce/405060"
           },
           "nazevCastiObce": null,
-          "ulice": null
+          "ulice": {
+            "nazev": "Kpt. Jaroše"
+          }
         }
       }
     }
@@ -21829,6 +21671,164 @@
           "ulice": {
             "nazev": "Školní"
           }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67121418,
+    "id": "VolneMisto/67121418",
+    "referencniCislo": "30634500716",
+    "azylant": false,
+    "cizinecMimoEu": false,
+    "datumVlozeni": "2025-01-24T00:00:00.000Z",
+    "datumZmeny": "2025-01-24T18:41:02.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 37500,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "SKLADNÍK/CE - ŘIDIČ/KA"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-02-01",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Pracovní poměr na dobu neurčitou.\n\nPožadujeme: řidičský průkaz sk.B\n\nZájemci se mohou hlásit telefonicky od 9:00 hod. do 15:00 hod."
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": false,
+    "expirace": "2025-04-30",
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Víno Hulík s.r.o. - Činěves",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": 34,
+            "cisloOrientacni": null,
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 1101960,
+            "psc": "28901",
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/27"
+            },
+            "okres": {
+              "id": "Okres/3208"
+            },
+            "obec": {
+              "id": "Obec/537080"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": {
+              "id": "CastObce/23922"
+            },
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "29201144",
+      "nazev": "Víno Hulík s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/NBA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": [
+      {
+        "dovednost": {
+          "id": "Dovednost/91"
+        },
+        "popis": null
+      }
+    ],
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": [
+      {
+        "id": "CzIsco/83221"
+      }
+    ],
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "737 440 580",
+        "jmeno": "Radim",
+        "prijmeni": "Hulík",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Víno Hulík s.r.o. - Činěves",
+        "adresa": {
+          "cisloDomovni": 34,
+          "cisloOrientacni": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 1101960,
+          "psc": "28901",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/27"
+          },
+          "okres": {
+            "id": "Okres/3208"
+          },
+          "obec": {
+            "id": "Obec/537080"
+          },
+          "mestskyObvodMestskaCast": null,
+          "mestskyObvodVPraze": null,
+          "castObce": {
+            "id": "CastObce/23922"
+          },
+          "nazevCastiObce": null,
+          "ulice": null
         }
       }
     }
@@ -22298,154 +22298,6 @@
     }
   },
   {
-    "portalId": 67121074,
-    "id": "VolneMisto/67121074",
-    "referencniCislo": "30623520704",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-01-10T00:00:00.000Z",
-    "datumZmeny": "2025-01-23T08:02:51.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 21500,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 3,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-01-12",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "KONTAKT - PHAM Trong Thanh, e-mail: pt.thanh@linsan24.eu\n\nZdravá osoba.\nŘidičský průkaz B.\nVýpis z RT.\n"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "LINSAN, s.r.o. - PRAHA",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "01389602",
-      "nazev": "LINSAN, s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "pt.thanh@linsan24.eu",
-        "telefon": null,
-        "jmeno": null,
-        "prijmeni": "PHAM Trong Thanh",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "LINSAN, s.r.o.",
-        "adresa": {
-          "cisloDomovni": 258,
-          "cisloOrientacni": "5",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 21759359,
-          "psc": "10000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500224"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/108"
-          },
-          "castObce": {
-            "id": "CastObce/490181"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Nad Třebešínem III"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67117114,
     "id": "VolneMisto/67117114",
     "referencniCislo": "30557420733",
@@ -22591,6 +22443,154 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Poděbradská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67121074,
+    "id": "VolneMisto/67121074",
+    "referencniCislo": "30623520704",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-01-10T00:00:00.000Z",
+    "datumZmeny": "2025-01-23T08:02:51.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 21500,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 3,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-01-12",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "KONTAKT - PHAM Trong Thanh, e-mail: pt.thanh@linsan24.eu\n\nZdravá osoba.\nŘidičský průkaz B.\nVýpis z RT.\n"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "LINSAN, s.r.o. - PRAHA",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "01389602",
+      "nazev": "LINSAN, s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "pt.thanh@linsan24.eu",
+        "telefon": null,
+        "jmeno": null,
+        "prijmeni": "PHAM Trong Thanh",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "LINSAN, s.r.o.",
+        "adresa": {
+          "cisloDomovni": 258,
+          "cisloOrientacni": "5",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 21759359,
+          "psc": "10000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500224"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/108"
+          },
+          "castObce": {
+            "id": "CastObce/490181"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Nad Třebešínem III"
           }
         }
       }
@@ -32923,12 +32923,12 @@
     }
   },
   {
-    "portalId": 66596498,
-    "id": "VolneMisto/66596498",
-    "referencniCislo": "20239100732",
+    "portalId": 991712,
+    "id": "VolneMisto/991712",
+    "referencniCislo": "15887010753",
     "azylant": false,
     "cizinecMimoEu": true,
-    "datumVlozeni": "2020-12-03T00:00:00.000Z",
+    "datumVlozeni": "2019-02-13T00:00:00.000Z",
     "datumZmeny": "2025-01-07T21:12:40.000Z",
     "mesicniMzdaDo": null,
     "mesicniMzdaOd": 20800,
@@ -32940,11 +32940,11 @@
     },
     "statniSpravaSamosprava": false,
     "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2020-12-05",
+    "terminZahajeniPracovnihoPomeru": "2019-04-01",
     "souhlasAgenturyAgentura": false,
     "souhlasAgenturyUzivatel": false,
     "upresnujiciInformace": {
-      "cs": "Místo výkonu práce:\n- Praha-východ\n\nPrvotní kontakt:\n- tel.: 774 151 015\n- e-mail: vmlogistic.cz@gmail.com\n- osobně: Hybernská 1007/20, Praha 1\n\nUpřesňující údaje:\n- ŘP sk. B"
+      "cs": "Místo pracoviště:\n- Praha-východ\n\nPrvotní kontakt:\n- tel.: 774 151 015\n\nUpřesňující údaje:\n- ŘP sk. B"
     },
     "urlAdresa": null,
     "zamestnaneckaKarta": true,
@@ -32975,15 +32975,15 @@
       "pracoviste": [
         {
           "email": null,
-          "nazev": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
+          "nazev": "TIR autoservis s.r.o. - Praha-východ",
           "telefon": null,
           "adresa": null
         }
       ]
     },
     "zamestnavatel": {
-      "ico": "25432818",
-      "nazev": "VM TRANSPORT & LOGISTIC s.r.o."
+      "ico": "02944464",
+      "nazev": "TIR autoservis s.r.o."
     },
     "profeseCzIsco": {
       "id": "CzIsco/83221"
@@ -33008,7 +33008,7 @@
     "pozadovaneVzdelani": null,
     "prvniKontaktSeZamestnavatelem": {
       "komuSeHlasit": {
-        "email": "vmlogistic.cz@gmail.com",
+        "email": null,
         "telefon": "774 151 015",
         "jmeno": "Nataliya",
         "prijmeni": "Chulan",
@@ -33019,7 +33019,7 @@
       "kdeSeHlasit": {
         "email": null,
         "telefon": null,
-        "mistoKontaktu": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
+        "mistoKontaktu": "TIR autoservis s.r.o. - Praha-východ",
         "adresa": {
           "cisloDomovni": null,
           "cisloOrientacni": null,
@@ -33157,12 +33157,12 @@
     }
   },
   {
-    "portalId": 991712,
-    "id": "VolneMisto/991712",
-    "referencniCislo": "15887010753",
+    "portalId": 66596498,
+    "id": "VolneMisto/66596498",
+    "referencniCislo": "20239100732",
     "azylant": false,
     "cizinecMimoEu": true,
-    "datumVlozeni": "2019-02-13T00:00:00.000Z",
+    "datumVlozeni": "2020-12-03T00:00:00.000Z",
     "datumZmeny": "2025-01-07T21:12:40.000Z",
     "mesicniMzdaDo": null,
     "mesicniMzdaOd": 20800,
@@ -33174,11 +33174,11 @@
     },
     "statniSpravaSamosprava": false,
     "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2019-04-01",
+    "terminZahajeniPracovnihoPomeru": "2020-12-05",
     "souhlasAgenturyAgentura": false,
     "souhlasAgenturyUzivatel": false,
     "upresnujiciInformace": {
-      "cs": "Místo pracoviště:\n- Praha-východ\n\nPrvotní kontakt:\n- tel.: 774 151 015\n\nUpřesňující údaje:\n- ŘP sk. B"
+      "cs": "Místo výkonu práce:\n- Praha-východ\n\nPrvotní kontakt:\n- tel.: 774 151 015\n- e-mail: vmlogistic.cz@gmail.com\n- osobně: Hybernská 1007/20, Praha 1\n\nUpřesňující údaje:\n- ŘP sk. B"
     },
     "urlAdresa": null,
     "zamestnaneckaKarta": true,
@@ -33209,15 +33209,15 @@
       "pracoviste": [
         {
           "email": null,
-          "nazev": "TIR autoservis s.r.o. - Praha-východ",
+          "nazev": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
           "telefon": null,
           "adresa": null
         }
       ]
     },
     "zamestnavatel": {
-      "ico": "02944464",
-      "nazev": "TIR autoservis s.r.o."
+      "ico": "25432818",
+      "nazev": "VM TRANSPORT & LOGISTIC s.r.o."
     },
     "profeseCzIsco": {
       "id": "CzIsco/83221"
@@ -33242,7 +33242,7 @@
     "pozadovaneVzdelani": null,
     "prvniKontaktSeZamestnavatelem": {
       "komuSeHlasit": {
-        "email": null,
+        "email": "vmlogistic.cz@gmail.com",
         "telefon": "774 151 015",
         "jmeno": "Nataliya",
         "prijmeni": "Chulan",
@@ -33253,7 +33253,7 @@
       "kdeSeHlasit": {
         "email": null,
         "telefon": null,
-        "mistoKontaktu": "TIR autoservis s.r.o. - Praha-východ",
+        "mistoKontaktu": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
         "adresa": {
           "cisloDomovni": null,
           "cisloOrientacni": null,
