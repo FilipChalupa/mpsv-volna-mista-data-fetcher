@@ -29705,154 +29705,6 @@
     }
   },
   {
-    "portalId": 67109476,
-    "id": "VolneMisto/67109476",
-    "referencniCislo": "30415000774",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2024-12-04T00:00:00.000Z",
-    "datumZmeny": "2025-02-26T22:36:56.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-01-02",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "KONTAKT- tel.: +420 774 151 015, e-mail: koubova.hana@centrum.cz"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Frigosh Trans s.r.o. - PRAHA",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "07945353",
-      "nazev": "Frigosh Trans s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "koubova.hana@centrum.cz",
-        "telefon": "+420 774 151 015",
-        "jmeno": null,
-        "prijmeni": "Adm",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Frigosh Trans s.r.o.",
-        "adresa": {
-          "cisloDomovni": 1732,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22446664,
-          "psc": "19300",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/538213"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/94"
-          },
-          "castObce": {
-            "id": "CastObce/43770"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Lukavecká"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67132793,
     "id": "VolneMisto/67132793",
     "referencniCislo": "30836420766",
@@ -29995,6 +29847,154 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Jaurisova"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67109476,
+    "id": "VolneMisto/67109476",
+    "referencniCislo": "30415000774",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2024-12-04T00:00:00.000Z",
+    "datumZmeny": "2025-02-26T22:36:56.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 20800,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-01-02",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "KONTAKT- tel.: +420 774 151 015, e-mail: koubova.hana@centrum.cz"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Frigosh Trans s.r.o. - PRAHA",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "07945353",
+      "nazev": "Frigosh Trans s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "koubova.hana@centrum.cz",
+        "telefon": "+420 774 151 015",
+        "jmeno": null,
+        "prijmeni": "Adm",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Frigosh Trans s.r.o.",
+        "adresa": {
+          "cisloDomovni": 1732,
+          "cisloOrientacni": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22446664,
+          "psc": "19300",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/538213"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/94"
+          },
+          "castObce": {
+            "id": "CastObce/43770"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Lukavecká"
           }
         }
       }
@@ -35324,9 +35324,9 @@
       "adresaText": null,
       "pracoviste": [
         {
-          "email": null,
+          "email": "info@maxbrands.cz",
           "nazev": "MAX BRANDS CZ s.r.o.",
-          "telefon": null,
+          "telefon": "776357411",
           "adresa": {
             "cisloDomovni": 515,
             "cisloOrientacni": "4",
@@ -43512,154 +43512,6 @@
     }
   },
   {
-    "portalId": 67116345,
-    "id": "VolneMisto/67116345",
-    "referencniCislo": "30535540734",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-01-09T00:00:00.000Z",
-    "datumZmeny": "2025-01-10T15:48:21.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 21500,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 5,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-01-09",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "kontakt   e-mail: logistic@linsan24h.cz\n\nZdravá osoba"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "LINSAN Logistics s.r.o., Praha",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "25995871",
-      "nazev": "LINSAN Logistics s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "logistic@linsan24h.cz",
-        "telefon": null,
-        "jmeno": null,
-        "prijmeni": "TRAN Trung Kien",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "LINSAN Logistics s.r.o.",
-        "adresa": {
-          "cisloDomovni": 839,
-          "cisloOrientacni": "26",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22608915,
-          "psc": "10000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500224"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/108"
-          },
-          "castObce": {
-            "id": "CastObce/490181"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Vykáňská"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67116335,
     "id": "VolneMisto/67116335",
     "referencniCislo": "30536080733",
@@ -43809,6 +43661,154 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Na Krocínce"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67116345,
+    "id": "VolneMisto/67116345",
+    "referencniCislo": "30535540734",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-01-09T00:00:00.000Z",
+    "datumZmeny": "2025-01-10T15:48:21.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 21500,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 5,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-01-09",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "kontakt   e-mail: logistic@linsan24h.cz\n\nZdravá osoba"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "LINSAN Logistics s.r.o., Praha",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "25995871",
+      "nazev": "LINSAN Logistics s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "logistic@linsan24h.cz",
+        "telefon": null,
+        "jmeno": null,
+        "prijmeni": "TRAN Trung Kien",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "LINSAN Logistics s.r.o.",
+        "adresa": {
+          "cisloDomovni": 839,
+          "cisloOrientacni": "26",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22608915,
+          "psc": "10000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500224"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/108"
+          },
+          "castObce": {
+            "id": "CastObce/490181"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Vykáňská"
           }
         }
       }
@@ -44410,9 +44410,9 @@
     }
   },
   {
-    "portalId": 67020167,
-    "id": "VolneMisto/67020167",
-    "referencniCislo": "28713120739",
+    "portalId": 67024884,
+    "id": "VolneMisto/67024884",
+    "referencniCislo": "28809140748",
     "azylant": false,
     "cizinecMimoEu": true,
     "datumVlozeni": "2023-11-21T00:00:00.000Z",
@@ -44421,7 +44421,7 @@
     "mesicniMzdaOd": 20800,
     "modraKarta": false,
     "pocetHodinTydne": null,
-    "pocetMist": 16,
+    "pocetMist": 12,
     "pozadovanaProfese": {
       "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
     },
@@ -44525,9 +44525,9 @@
     }
   },
   {
-    "portalId": 67024884,
-    "id": "VolneMisto/67024884",
-    "referencniCislo": "28809140748",
+    "portalId": 67020167,
+    "id": "VolneMisto/67020167",
+    "referencniCislo": "28713120739",
     "azylant": false,
     "cizinecMimoEu": true,
     "datumVlozeni": "2023-11-21T00:00:00.000Z",
@@ -44536,7 +44536,7 @@
     "mesicniMzdaOd": 20800,
     "modraKarta": false,
     "pocetHodinTydne": null,
-    "pocetMist": 12,
+    "pocetMist": 16,
     "pozadovanaProfese": {
       "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
     },
@@ -45236,14 +45236,14 @@
     }
   },
   {
-    "portalId": 66596498,
-    "id": "VolneMisto/66596498",
-    "referencniCislo": "20239100732",
+    "portalId": 66856525,
+    "id": "VolneMisto/66856525",
+    "referencniCislo": "25597360750",
     "azylant": false,
     "cizinecMimoEu": true,
-    "datumVlozeni": "2020-12-03T00:00:00.000Z",
+    "datumVlozeni": "2022-06-13T00:00:00.000Z",
     "datumZmeny": "2025-01-07T21:12:40.000Z",
-    "mesicniMzdaDo": null,
+    "mesicniMzdaDo": 28000,
     "mesicniMzdaOd": 20800,
     "modraKarta": false,
     "pocetHodinTydne": null,
@@ -45253,11 +45253,11 @@
     },
     "statniSpravaSamosprava": false,
     "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2020-12-05",
+    "terminZahajeniPracovnihoPomeru": "2022-06-14",
     "souhlasAgenturyAgentura": false,
     "souhlasAgenturyUzivatel": false,
     "upresnujiciInformace": {
-      "cs": "Místo výkonu práce:\n- Praha-východ\n\nPrvotní kontakt:\n- tel.: 774 151 015\n- e-mail: vmlogistic.cz@gmail.com\n- osobně: Hybernská 1007/20, Praha 1\n\nUpřesňující údaje:\n- ŘP sk. B"
+      "cs": "Upřesňující údaje:\nŘP sk. B, komunikativnost, bezúhonnost, ochota učit se novým věcem, spolehlivost.\nRozvoz zboží na paletách, nakládka v Praze 6:00, po Středních Čechách, každý den doma, svátky a víkendy volné.\n"
     },
     "urlAdresa": null,
     "zamestnaneckaKarta": true,
@@ -45276,27 +45276,47 @@
     },
     "mistoVykonuPrace": {
       "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/okres"
+        "id": "TypMistaVykonuPrace/adrprov"
       },
       "obec": null,
-      "okresy": [
-        {
-          "id": "Okres/3209"
-        }
-      ],
+      "okresy": null,
       "adresaText": null,
       "pracoviste": [
         {
           "email": null,
-          "nazev": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
+          "nazev": "FASHION CLOTHING s.r.o. - Modletice",
           "telefon": null,
-          "adresa": null
+          "adresa": {
+            "cisloDomovni": 128,
+            "cisloOrientacni": null,
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 26389703,
+            "psc": "25101",
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/27"
+            },
+            "okres": {
+              "id": "Okres/3209"
+            },
+            "obec": {
+              "id": "Obec/598267"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": {
+              "id": "CastObce/27685"
+            },
+            "ulice": null
+          }
         }
       ]
     },
     "zamestnavatel": {
-      "ico": "25432818",
-      "nazev": "VM TRANSPORT & LOGISTIC s.r.o."
+      "ico": "24762393",
+      "nazev": "FASHION CLOTHING s.r.o."
     },
     "profeseCzIsco": {
       "id": "CzIsco/83221"
@@ -45321,10 +45341,10 @@
     "pozadovaneVzdelani": null,
     "prvniKontaktSeZamestnavatelem": {
       "komuSeHlasit": {
-        "email": "vmlogistic.cz@gmail.com",
-        "telefon": "774 151 015",
-        "jmeno": "Nataliya",
-        "prijmeni": "Chulan",
+        "email": "velkoobchodina@seznam.cz",
+        "telefon": "777 318 735 ",
+        "jmeno": null,
+        "prijmeni": "Vašíčková",
         "titulPredJmenem": null,
         "titulZaJmenem": null,
         "poziceVeSpolecnosti": null
@@ -45332,20 +45352,30 @@
       "kdeSeHlasit": {
         "email": null,
         "telefon": null,
-        "mistoKontaktu": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
+        "mistoKontaktu": "FASHION CLOTHING s.r.o. - Modletice",
         "adresa": {
-          "cisloDomovni": null,
+          "cisloDomovni": 128,
           "cisloOrientacni": null,
-          "dodatekAdresy": "Praha-východ",
-          "kodAdresnihoMista": null,
-          "psc": null,
-          "typCislaDomovniho": null,
-          "kraj": null,
-          "okres": null,
-          "obec": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 26389703,
+          "psc": "25101",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/27"
+          },
+          "okres": {
+            "id": "Okres/3209"
+          },
+          "obec": {
+            "id": "Obec/598267"
+          },
           "mestskyObvodMestskaCast": null,
           "mestskyObvodVPraze": null,
-          "castObce": null,
+          "castObce": {
+            "id": "CastObce/27685"
+          },
           "nazevCastiObce": null,
           "ulice": null
         }
@@ -45450,6 +45480,123 @@
         "email": null,
         "telefon": null,
         "mistoKontaktu": "TIR autoservis s.r.o. - Praha-východ",
+        "adresa": {
+          "cisloDomovni": null,
+          "cisloOrientacni": null,
+          "dodatekAdresy": "Praha-východ",
+          "kodAdresnihoMista": null,
+          "psc": null,
+          "typCislaDomovniho": null,
+          "kraj": null,
+          "okres": null,
+          "obec": null,
+          "mestskyObvodMestskaCast": null,
+          "mestskyObvodVPraze": null,
+          "castObce": null,
+          "nazevCastiObce": null,
+          "ulice": null
+        }
+      }
+    }
+  },
+  {
+    "portalId": 66596498,
+    "id": "VolneMisto/66596498",
+    "referencniCislo": "20239100732",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2020-12-03T00:00:00.000Z",
+    "datumZmeny": "2025-01-07T21:12:40.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 20800,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2020-12-05",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Místo výkonu práce:\n- Praha-východ\n\nPrvotní kontakt:\n- tel.: 774 151 015\n- e-mail: vmlogistic.cz@gmail.com\n- osobně: Hybernská 1007/20, Praha 1\n\nUpřesňující údaje:\n- ŘP sk. B"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/okres"
+      },
+      "obec": null,
+      "okresy": [
+        {
+          "id": "Okres/3209"
+        }
+      ],
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "25432818",
+      "nazev": "VM TRANSPORT & LOGISTIC s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/PYA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "vmlogistic.cz@gmail.com",
+        "telefon": "774 151 015",
+        "jmeno": "Nataliya",
+        "prijmeni": "Chulan",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "VM TRANSPORT & LOGISTIC s.r.o. - Praha-východ",
         "adresa": {
           "cisloDomovni": null,
           "cisloOrientacni": null,
@@ -45702,153 +45849,6 @@
     }
   },
   {
-    "portalId": 66856525,
-    "id": "VolneMisto/66856525",
-    "referencniCislo": "25597360750",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2022-06-13T00:00:00.000Z",
-    "datumZmeny": "2025-01-07T21:12:40.000Z",
-    "mesicniMzdaDo": 28000,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2022-06-14",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Upřesňující údaje:\nŘP sk. B, komunikativnost, bezúhonnost, ochota učit se novým věcem, spolehlivost.\nRozvoz zboží na paletách, nakládka v Praze 6:00, po Středních Čechách, každý den doma, svátky a víkendy volné.\n"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "FASHION CLOTHING s.r.o. - Modletice",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 128,
-            "cisloOrientacni": null,
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 26389703,
-            "psc": "25101",
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/27"
-            },
-            "okres": {
-              "id": "Okres/3209"
-            },
-            "obec": {
-              "id": "Obec/598267"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": {
-              "id": "CastObce/27685"
-            },
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "24762393",
-      "nazev": "FASHION CLOTHING s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/PYA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "velkoobchodina@seznam.cz",
-        "telefon": "777 318 735 ",
-        "jmeno": null,
-        "prijmeni": "Vašíčková",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "FASHION CLOTHING s.r.o. - Modletice",
-        "adresa": {
-          "cisloDomovni": 128,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 26389703,
-          "psc": "25101",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/27"
-          },
-          "okres": {
-            "id": "Okres/3209"
-          },
-          "obec": {
-            "id": "Obec/598267"
-          },
-          "mestskyObvodMestskaCast": null,
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/27685"
-          },
-          "nazevCastiObce": null,
-          "ulice": null
-        }
-      }
-    }
-  },
-  {
     "portalId": 67114458,
     "id": "VolneMisto/67114458",
     "referencniCislo": "30509640764",
@@ -45999,155 +45999,6 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Nekázanka"
-          }
-        }
-      }
-    }
-  },
-  {
-    "portalId": 66930305,
-    "id": "VolneMisto/66930305",
-    "referencniCislo": "27006280706",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2023-03-01T00:00:00.000Z",
-    "datumZmeny": "2025-01-07T19:16:55.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidič - řidička"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-01-07",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Zaměstnanecké výhody:\nFiremní stravování, příspěvek na dovolenou."
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/pruznaPd"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/okres"
-      },
-      "obec": null,
-      "okresy": [
-        {
-          "id": "Okres/3401"
-        },
-        {
-          "id": "Okres/3404"
-        },
-        {
-          "id": "Okres/3405"
-        },
-        {
-          "id": "Okres/3406"
-        },
-        {
-          "id": "Okres/3407"
-        },
-        {
-          "id": "Okres/3408"
-        },
-        {
-          "id": "Okres/3410"
-        }
-      ],
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Pizza Doma - Plzeňský kraj",
-          "telefon": null,
-          "adresa": null
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "05433100",
-      "nazev": "Lauch s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/PMA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "carepido@gmail.com",
-        "telefon": "732244188",
-        "jmeno": "Libor",
-        "prijmeni": "Hájek",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Pizza Doma",
-        "adresa": {
-          "cisloDomovni": 1327,
-          "cisloOrientacni": "74",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 24427926,
-          "psc": "32300",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/43"
-          },
-          "okres": {
-            "id": "Okres/3405"
-          },
-          "obec": {
-            "id": "Obec/554791"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/545970"
-          },
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/122122"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Sokolovská"
           }
         }
       }
@@ -46482,6 +46333,155 @@
           "cisloOrientacni": "66",
           "dodatekAdresy": null,
           "kodAdresnihoMista": 24425125,
+          "psc": "32300",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/43"
+          },
+          "okres": {
+            "id": "Okres/3405"
+          },
+          "obec": {
+            "id": "Obec/554791"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/545970"
+          },
+          "mestskyObvodVPraze": null,
+          "castObce": {
+            "id": "CastObce/122122"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Sokolovská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 66930305,
+    "id": "VolneMisto/66930305",
+    "referencniCislo": "27006280706",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2023-03-01T00:00:00.000Z",
+    "datumZmeny": "2025-01-07T19:16:55.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 20800,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidič - řidička"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-01-07",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Zaměstnanecké výhody:\nFiremní stravování, příspěvek na dovolenou."
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/pruznaPd"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/okres"
+      },
+      "obec": null,
+      "okresy": [
+        {
+          "id": "Okres/3401"
+        },
+        {
+          "id": "Okres/3404"
+        },
+        {
+          "id": "Okres/3405"
+        },
+        {
+          "id": "Okres/3406"
+        },
+        {
+          "id": "Okres/3407"
+        },
+        {
+          "id": "Okres/3408"
+        },
+        {
+          "id": "Okres/3410"
+        }
+      ],
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Pizza Doma - Plzeňský kraj",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "05433100",
+      "nazev": "Lauch s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/PMA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "carepido@gmail.com",
+        "telefon": "732244188",
+        "jmeno": "Libor",
+        "prijmeni": "Hájek",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Pizza Doma",
+        "adresa": {
+          "cisloDomovni": 1327,
+          "cisloOrientacni": "74",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 24427926,
           "psc": "32300",
           "typCislaDomovniho": {
             "id": "TypStavebnihoObjektu/1"
