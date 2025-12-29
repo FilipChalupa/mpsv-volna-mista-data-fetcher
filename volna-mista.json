@@ -5159,144 +5159,6 @@
     }
   },
   {
-    "portalId": 67213959,
-    "id": "VolneMisto/67213959",
-    "referencniCislo": "32315220783",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-12-09T00:00:00.000Z",
-    "datumZmeny": "2025-12-18T20:54:37.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "ŘIDIČ/ŘIDIČKA"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-12-10",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Rozvoz zásilek\nPožadavky: ŘP sk. B\nPravidelné pracoviště: Dr. Milady Horákové 534/78, 460 07 Liberec"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/okres"
-      },
-      "obec": null,
-      "okresy": [
-        {
-          "id": "Okres/3505"
-        }
-      ],
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "VIAprogress s.r.o.-003 okres Liberec",
-          "telefon": null,
-          "adresa": null
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "08361011",
-      "nazev": "VIAprogress s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/LBA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": [
-      {
-        "dovednost": {
-          "id": "Dovednost/91"
-        },
-        "popis": null
-      }
-    ],
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "viaprogress@seznam.cz",
-        "telefon": "774 544 581",
-        "jmeno": "Viktoriya",
-        "prijmeni": "Irhovtsiy",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "VIAprogress s.r.o.-002",
-        "adresa": {
-          "cisloDomovni": 534,
-          "cisloOrientacni": "78",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 23682141,
-          "psc": "46007",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/78"
-          },
-          "okres": {
-            "id": "Okres/3505"
-          },
-          "obec": {
-            "id": "Obec/563889"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/556904"
-          },
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/408654"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Dr. Milady Horákové"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67214847,
     "id": "VolneMisto/67214847",
     "referencniCislo": "32332960725",
@@ -5472,6 +5334,144 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Nákladní"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67213959,
+    "id": "VolneMisto/67213959",
+    "referencniCislo": "32315220783",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-12-09T00:00:00.000Z",
+    "datumZmeny": "2025-12-18T20:54:37.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 20800,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "ŘIDIČ/ŘIDIČKA"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-12-10",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Rozvoz zásilek\nPožadavky: ŘP sk. B\nPravidelné pracoviště: Dr. Milady Horákové 534/78, 460 07 Liberec"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/okres"
+      },
+      "obec": null,
+      "okresy": [
+        {
+          "id": "Okres/3505"
+        }
+      ],
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "VIAprogress s.r.o.-003 okres Liberec",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "08361011",
+      "nazev": "VIAprogress s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/LBA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": [
+      {
+        "dovednost": {
+          "id": "Dovednost/91"
+        },
+        "popis": null
+      }
+    ],
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "viaprogress@seznam.cz",
+        "telefon": "774 544 581",
+        "jmeno": "Viktoriya",
+        "prijmeni": "Irhovtsiy",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "VIAprogress s.r.o.-002",
+        "adresa": {
+          "cisloDomovni": 534,
+          "cisloOrientacni": "78",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 23682141,
+          "psc": "46007",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/78"
+          },
+          "okres": {
+            "id": "Okres/3505"
+          },
+          "obec": {
+            "id": "Obec/563889"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/556904"
+          },
+          "mestskyObvodVPraze": null,
+          "castObce": {
+            "id": "CastObce/408654"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Dr. Milady Horákové"
           }
         }
       }
