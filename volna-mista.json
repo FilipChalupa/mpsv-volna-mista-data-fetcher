@@ -1,5 +1,1195 @@
 [
   {
+    "portalId": 67165730,
+    "id": "VolneMisto/67165730",
+    "referencniCislo": "31440400772",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-06-12T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T22:55:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-07-01",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Salim Ozhan Bozkur, tel.: 602 192 690"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/bezVzdel"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "OZYFOOD s.r.o. Praha",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "28490827",
+      "nazev": "OZYFOOD s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "602 192 690",
+        "jmeno": null,
+        "prijmeni": "Salim Ozhan Bozkur",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "OZYFOOD s.r.o.",
+        "adresa": {
+          "cisloDomovni": 716,
+          "cisloOrientacni": "24",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 21723613,
+          "psc": "11000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500054"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/19"
+          },
+          "castObce": {
+            "id": "CastObce/400017"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Rybná"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67171827,
+    "id": "VolneMisto/67171827",
+    "referencniCislo": "31549780785",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-06-27T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T22:55:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "ŘIDIČ / KA SKUPINY B"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-06-27",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "PRVOTNÍ KONTAKT E-MAILEM - Korban Artem, e-mail: koraartem@gmail.com\n\nPlatný řidičský průkaz sk. B. \nZnalost ukrajinského a ruského jazyků. \nSpolehlivost a zodpovědný přístup k práci. \n"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/usoSMatVyuc"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "RoadInst s.r.o.",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": 524,
+            "cisloOrientacni": "26",
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 22378847,
+            "psc": null,
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": {
+              "id": "MestskyObvodMestskaCast/500208"
+            },
+            "mestskyObvodVPraze": {
+              "id": "MestskyObvodVPraze/86"
+            },
+            "castObce": {
+              "id": "CastObce/490105"
+            },
+            "ulice": {
+              "nazev": "Prosecká"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "17811457",
+      "nazev": "RoadInst s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "koraartem@gmail.com",
+        "telefon": null,
+        "jmeno": null,
+        "prijmeni": "Korban Artem",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "RoadInst s.r.o.",
+        "adresa": {
+          "cisloDomovni": 524,
+          "cisloOrientacni": "26",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22378847,
+          "psc": "18000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500208"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/86"
+          },
+          "castObce": {
+            "id": "CastObce/490105"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Prosecká"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67126683,
+    "id": "VolneMisto/67126683",
+    "referencniCislo": "30515720724",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-01-07T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T22:55:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 2,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-01-10",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": null,
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "PJ Solution s.r.o. Praha",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "08956944",
+      "nazev": "PJ Solution s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "774919900",
+        "jmeno": null,
+        "prijmeni": "Voloshchuk",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "PJ Solution s.r.o.",
+        "adresa": {
+          "cisloDomovni": 1208,
+          "cisloOrientacni": "74",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22650822,
+          "psc": "10100",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500224"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/108"
+          },
+          "castObce": {
+            "id": "CastObce/490229"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Korunní"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67197664,
+    "id": "VolneMisto/67197664",
+    "referencniCislo": "32014980757",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-10-06T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T22:55:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 3,
+    "pozadovanaProfese": {
+      "cs": "Řidiči os. a malých dodáv. automobilů"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-10-10",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Salim Ozhan Bozkur, tel.: 602 192 690"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "OZYFOOD s.r.o. Praha",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "28490827",
+      "nazev": "OZYFOOD s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "602 192 690",
+        "jmeno": null,
+        "prijmeni": "Salim Ozhan Bozkur",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "OZYFOOD s.r.o.",
+        "adresa": {
+          "cisloDomovni": 716,
+          "cisloOrientacni": "24",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 21723613,
+          "psc": "11000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500054"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/19"
+          },
+          "castObce": {
+            "id": "CastObce/400017"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Rybná"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67192765,
+    "id": "VolneMisto/67192765",
+    "referencniCislo": "31920180717",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-09-15T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T22:55:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 4,
+    "pozadovanaProfese": {
+      "cs": "Řidiči os. a malých dodávkových automobilů"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-09-15",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Kholivchuk Oksana, e-mail: kholivchuk@seznam.cz \n\nŘidičský průkaz skupiny B"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "ROKSANA s.r.o. Praha",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "06555071",
+      "nazev": "ROKSANA s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "kholivchuk@seznam.cz ",
+        "telefon": null,
+        "jmeno": "Oksana",
+        "prijmeni": "Kholivchuk",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": "jednatelka"
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "ROKSANA s.r.o.",
+        "adresa": {
+          "cisloDomovni": 1246,
+          "cisloOrientacni": "2",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 21950407,
+          "psc": "14000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500119"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/43"
+          },
+          "castObce": {
+            "id": "CastObce/490156"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Spolupráce"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67181157,
+    "id": "VolneMisto/67181157",
+    "referencniCislo": "17686330780",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-08-08T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T22:55:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-08-08",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": null,
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/pruznaPd"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": "zorilo@auditure.cz",
+          "nazev": "Optima Board Control s.r.o. Kloboukova č.p. 1180/17",
+          "telefon": "+420605442780",
+          "adresa": {
+            "cisloDomovni": 1180,
+            "cisloOrientacni": "17",
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 22714138,
+            "psc": null,
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": {
+              "id": "MestskyObvodMestskaCast/547034"
+            },
+            "mestskyObvodVPraze": {
+              "id": "MestskyObvodVPraze/43"
+            },
+            "castObce": {
+              "id": "CastObce/400211"
+            },
+            "ulice": {
+              "nazev": "Kloboukova"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "17227721",
+      "nazev": "Optima Board Control s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "zorilo@auditure.cz",
+        "telefon": "+420605442780",
+        "jmeno": "Kseniia",
+        "prijmeni": "Zorilo",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": "účetní"
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Optima Board Control s.r.o.",
+        "adresa": {
+          "cisloDomovni": 429,
+          "cisloOrientacni": "245",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22113754,
+          "psc": "15500",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/539694"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/51"
+          },
+          "castObce": {
+            "id": "CastObce/490172"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Plzeňská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67178389,
+    "id": "VolneMisto/67178389",
+    "referencniCislo": "31667220722",
+    "azylant": false,
+    "cizinecMimoEu": false,
+    "datumVlozeni": "2025-07-29T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T20:01:00.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 17500,
+    "modraKarta": false,
+    "pocetHodinTydne": 20,
+    "pocetMist": 2,
+    "pozadovanaProfese": {
+      "cs": "řidič/ka - vnitrostátní doprava"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-12-30",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "-rozvoz zboží z mlékárny Havl. Brod po ČR, jednodenní trasy\n-řid. průkaz B, spolehlivost, časová flexibilita, proaktivní přístup, schopnost manuální práce\nŽivotopis poslat na e-mail: prace@mafita.cz"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": false,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/usoSMat"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "MAFITA s.r.o. - pracoviště",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": 4346,
+            "cisloOrientacni": null,
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": null,
+            "psc": "58001",
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/108"
+            },
+            "okres": {
+              "id": "Okres/3601"
+            },
+            "obec": {
+              "id": "Obec/568414"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": "Havlíčkův Brod",
+            "ulice": {
+              "nazev": "Bratříků"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "11944773",
+      "nazev": "MAFITA s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/dpc"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/HBA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "prace@mafita.cz",
+        "telefon": "777 275 150",
+        "jmeno": "Oldřich",
+        "prijmeni": "Bureš",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "MAFITA s.r.o. - pracoviště",
+        "adresa": {
+          "cisloDomovni": 4346,
+          "cisloOrientacni": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": null,
+          "psc": "58001",
+          "typCislaDomovniho": null,
+          "kraj": {
+            "id": "Kraj/108"
+          },
+          "okres": {
+            "id": "Okres/3601"
+          },
+          "obec": {
+            "id": "Obec/568414"
+          },
+          "mestskyObvodMestskaCast": null,
+          "mestskyObvodVPraze": null,
+          "castObce": null,
+          "nazevCastiObce": "Havlíčkův Brod",
+          "ulice": {
+            "nazev": "Bratříků"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67178390,
+    "id": "VolneMisto/67178390",
+    "referencniCislo": "31667200740",
+    "azylant": false,
+    "cizinecMimoEu": false,
+    "datumVlozeni": "2025-07-29T00:00:00.000Z",
+    "datumZmeny": "2025-12-30T20:01:00.000Z",
+    "mesicniMzdaDo": 35000,
+    "mesicniMzdaOd": 30000,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 2,
+    "pozadovanaProfese": {
+      "cs": "řidič/ka  - vnitrostátní doprava"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-12-30",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "-rozvoz zboží z mlékárny Havl. Brod po ČR, jednodenní trasy\n-řid. průkaz B, spolehlivost, časová flexibilita, proaktivní přístup, schopnost manuální práce\nŽivotopis poslat na e-mail: prace@mafita.cz"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": false,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/usoSMat"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "MAFITA s.r.o. - pracoviště",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": 4346,
+            "cisloOrientacni": null,
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": null,
+            "psc": "58001",
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/108"
+            },
+            "okres": {
+              "id": "Okres/3601"
+            },
+            "obec": {
+              "id": "Obec/568414"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": "Havlíčkův Brod",
+            "ulice": {
+              "nazev": "Bratříků"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "11944773",
+      "nazev": "MAFITA s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/HBA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "prace@mafita.cz",
+        "telefon": "777 275 150",
+        "jmeno": "Oldřich",
+        "prijmeni": "Bureš",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "MAFITA s.r.o. - pracoviště",
+        "adresa": {
+          "cisloDomovni": 4346,
+          "cisloOrientacni": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": null,
+          "psc": "58001",
+          "typCislaDomovniho": null,
+          "kraj": {
+            "id": "Kraj/108"
+          },
+          "okres": {
+            "id": "Okres/3601"
+          },
+          "obec": {
+            "id": "Obec/568414"
+          },
+          "mestskyObvodMestskaCast": null,
+          "mestskyObvodVPraze": null,
+          "castObce": null,
+          "nazevCastiObce": "Havlíčkův Brod",
+          "ulice": {
+            "nazev": "Bratříků"
+          }
+        }
+      }
+    }
+  },
+  {
     "portalId": 67203839,
     "id": "VolneMisto/67203839",
     "referencniCislo": "32128920740",
@@ -677,169 +1867,6 @@
           "ulice": {
             "nazev": "Na universitním statku"
           }
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67206103,
-    "id": "VolneMisto/67206103",
-    "referencniCislo": "32174980705",
-    "azylant": false,
-    "cizinecMimoEu": false,
-    "datumVlozeni": "2025-11-06T00:00:00.000Z",
-    "datumZmeny": "2025-12-29T22:30:42.000Z",
-    "mesicniMzdaDo": 35000,
-    "mesicniMzdaOd": 28000,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "řidič, skladník (m/ž)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2026-01-01",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Komunikace, flexibilita, ŘP skupiny B\nStravenkový paušál, úvazek 40 hod./týden\nPrvní kontakt: e-mailem, telefonicky Po-Pá 7:00 - 14:30"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": false,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Martin Dostál - pracoviště Velké Meziříčí",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 995,
-            "cisloOrientacni": null,
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 25684361,
-            "psc": "59401",
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/108"
-            },
-            "okres": {
-              "id": "Okres/3714"
-            },
-            "obec": {
-              "id": "Obec/597007"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": {
-              "id": "CastObce/413038"
-            },
-            "ulice": {
-              "nazev": "Zahradní"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "67519997",
-      "nazev": "Martin Dostál"
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ZRA"
-    },
-    "vyhodyVolnehoMista": [
-      {
-        "vyhoda": {
-          "id": "VyhodyVolnehoMista/jine"
-        },
-        "popis": "Stravenkový paušál"
-      }
-    ],
-    "pozadovanaDovednost": [
-      {
-        "dovednost": {
-          "id": "Dovednost/91"
-        },
-        "popis": null
-      }
-    ],
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "martin.mados@seznam.cz",
-        "telefon": "724607791",
-        "jmeno": "Martin",
-        "prijmeni": "Dostál",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": "majitel "
-      },
-      "kdeSeHlasit": {
-        "email": "martin.mados@seznam.cz",
-        "telefon": "724 607 791",
-        "mistoKontaktu": "Martin Dostál",
-        "adresa": {
-          "cisloDomovni": 73,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 3652645,
-          "psc": "59253",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/108"
-          },
-          "okres": {
-            "id": "Okres/3714"
-          },
-          "obec": {
-            "id": "Obec/549916"
-          },
-          "mestskyObvodMestskaCast": null,
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/98540"
-          },
-          "nazevCastiObce": null,
-          "ulice": null
         }
       }
     }
@@ -2056,154 +3083,6 @@
     }
   },
   {
-    "portalId": 67216889,
-    "id": "VolneMisto/67216889",
-    "referencniCislo": "32372760795",
-    "azylant": false,
-    "cizinecMimoEu": false,
-    "datumVlozeni": "2025-12-23T00:00:00.000Z",
-    "datumZmeny": "2025-12-23T21:57:10.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 22400,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči os. a malých dodáv. automobilů"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2026-01-01",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "výpis z rejstříku trestů)"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": false,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/triSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Dorty NINA s.r.o., Praha",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "24007544",
-      "nazev": "Dorty NINA s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "gpc@centrum.cz",
-        "telefon": null,
-        "jmeno": null,
-        "prijmeni": "Nina Lesko",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Dorty NINA s.r.o.",
-        "adresa": {
-          "cisloDomovni": 660,
-          "cisloOrientacni": "3",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 21704406,
-          "psc": "11000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500054"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/19"
-          },
-          "castObce": {
-            "id": "CastObce/490148"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Školská"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67216955,
     "id": "VolneMisto/67216955",
     "referencniCislo": "32373180708",
@@ -2346,6 +3225,154 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Nademlejnská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67216889,
+    "id": "VolneMisto/67216889",
+    "referencniCislo": "32372760795",
+    "azylant": false,
+    "cizinecMimoEu": false,
+    "datumVlozeni": "2025-12-23T00:00:00.000Z",
+    "datumZmeny": "2025-12-23T21:57:10.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči os. a malých dodáv. automobilů"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2026-01-01",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "výpis z rejstříku trestů)"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": false,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/triSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Dorty NINA s.r.o., Praha",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "24007544",
+      "nazev": "Dorty NINA s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "gpc@centrum.cz",
+        "telefon": null,
+        "jmeno": null,
+        "prijmeni": "Nina Lesko",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Dorty NINA s.r.o.",
+        "adresa": {
+          "cisloDomovni": 660,
+          "cisloOrientacni": "3",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 21704406,
+          "psc": "11000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500054"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/19"
+          },
+          "castObce": {
+            "id": "CastObce/490148"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Školská"
           }
         }
       }
@@ -2661,136 +3688,6 @@
     }
   },
   {
-    "portalId": 67199230,
-    "id": "VolneMisto/67199230",
-    "referencniCislo": "17729510718",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-10-13T00:00:00.000Z",
-    "datumZmeny": "2025-12-22T23:15:38.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 24700,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 5,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2026-01-01",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": null,
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/bezVzdel"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "TAMDA FOODS s.r.o.001",
-          "telefon": null,
-          "adresa": null
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "27160840",
-      "nazev": "TAMDA FOODS s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/PZA"
-    },
-    "vyhodyVolnehoMista": [
-      {
-        "vyhoda": {
-          "id": "VyhodyVolnehoMista/strav"
-        },
-        "popis": null
-      }
-    ],
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "nguyentruong@tamda.eu",
-        "telefon": null,
-        "jmeno": "Truong",
-        "prijmeni": "Nguyen Doan",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "TAMDA FOODS s.r.o.001",
-        "adresa": {
-          "cisloDomovni": 1377,
-          "cisloOrientacni": null,
-          "dodatekAdresy": "Hostivice",
-          "kodAdresnihoMista": 79332463,
-          "psc": "25301",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/27"
-          },
-          "okres": {
-            "id": "Okres/3210"
-          },
-          "obec": {
-            "id": "Obec/539244"
-          },
-          "mestskyObvodMestskaCast": null,
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/45837"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "U Dálnice"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67198116,
     "id": "VolneMisto/67198116",
     "referencniCislo": "32025780737",
@@ -2936,6 +3833,136 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Třebonická"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67199230,
+    "id": "VolneMisto/67199230",
+    "referencniCislo": "17729510718",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-10-13T00:00:00.000Z",
+    "datumZmeny": "2025-12-22T23:15:38.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 24700,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 5,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2026-01-01",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": null,
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/bezVzdel"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "TAMDA FOODS s.r.o.001",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "27160840",
+      "nazev": "TAMDA FOODS s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/PZA"
+    },
+    "vyhodyVolnehoMista": [
+      {
+        "vyhoda": {
+          "id": "VyhodyVolnehoMista/strav"
+        },
+        "popis": null
+      }
+    ],
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "nguyentruong@tamda.eu",
+        "telefon": null,
+        "jmeno": "Truong",
+        "prijmeni": "Nguyen Doan",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "TAMDA FOODS s.r.o.001",
+        "adresa": {
+          "cisloDomovni": 1377,
+          "cisloOrientacni": null,
+          "dodatekAdresy": "Hostivice",
+          "kodAdresnihoMista": 79332463,
+          "psc": "25301",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/27"
+          },
+          "okres": {
+            "id": "Okres/3210"
+          },
+          "obec": {
+            "id": "Obec/539244"
+          },
+          "mestskyObvodMestskaCast": null,
+          "mestskyObvodVPraze": null,
+          "castObce": {
+            "id": "CastObce/45837"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "U Dálnice"
           }
         }
       }
@@ -7708,159 +8735,6 @@
     }
   },
   {
-    "portalId": 67215332,
-    "id": "VolneMisto/67215332",
-    "referencniCislo": "17764590768",
-    "azylant": true,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-12-16T00:00:00.000Z",
-    "datumZmeny": "2025-12-17T21:58:09.000Z",
-    "mesicniMzdaDo": 23000,
-    "mesicniMzdaOd": 23000,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2026-01-12",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": null,
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/bezVzdel"
-    },
-    "smennost": {
-      "id": "Smennost/pruznaPd"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Michal Teplík",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 2017,
-            "cisloOrientacni": "83",
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 22623671,
-            "psc": null,
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": {
-              "id": "MestskyObvodMestskaCast/500224"
-            },
-            "mestskyObvodVPraze": {
-              "id": "MestskyObvodVPraze/108"
-            },
-            "castObce": {
-              "id": "CastObce/490181"
-            },
-            "ulice": {
-              "nazev": "Černokostelecká"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "75902605",
-      "nazev": "Michal Teplík"
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": null,
-        "telefon": "608056359",
-        "jmeno": null,
-        "prijmeni": "Michal Teplík",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Michal Teplík",
-        "adresa": {
-          "cisloDomovni": 2017,
-          "cisloOrientacni": "83",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22623671,
-          "psc": "10000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500224"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/108"
-          },
-          "castObce": {
-            "id": "CastObce/490181"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Černokostelecká"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67215940,
     "id": "VolneMisto/67215940",
     "referencniCislo": "32354300725",
@@ -8221,6 +9095,159 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Primátorská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67215332,
+    "id": "VolneMisto/67215332",
+    "referencniCislo": "17764590768",
+    "azylant": true,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-12-16T00:00:00.000Z",
+    "datumZmeny": "2025-12-17T21:58:09.000Z",
+    "mesicniMzdaDo": 23000,
+    "mesicniMzdaOd": 23000,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2026-01-12",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": null,
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/bezVzdel"
+    },
+    "smennost": {
+      "id": "Smennost/pruznaPd"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Michal Teplík",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": 2017,
+            "cisloOrientacni": "83",
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 22623671,
+            "psc": null,
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": {
+              "id": "MestskyObvodMestskaCast/500224"
+            },
+            "mestskyObvodVPraze": {
+              "id": "MestskyObvodVPraze/108"
+            },
+            "castObce": {
+              "id": "CastObce/490181"
+            },
+            "ulice": {
+              "nazev": "Černokostelecká"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "75902605",
+      "nazev": "Michal Teplík"
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "608056359",
+        "jmeno": null,
+        "prijmeni": "Michal Teplík",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Michal Teplík",
+        "adresa": {
+          "cisloDomovni": 2017,
+          "cisloOrientacni": "83",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22623671,
+          "psc": "10000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500224"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/108"
+          },
+          "castObce": {
+            "id": "CastObce/490181"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Černokostelecká"
           }
         }
       }
@@ -8854,6 +9881,161 @@
     }
   },
   {
+    "portalId": 67178372,
+    "id": "VolneMisto/67178372",
+    "referencniCislo": "17678610744",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-07-29T00:00:00.000Z",
+    "datumZmeny": "2025-12-16T22:48:50.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": 40,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-08-04",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Převoz vozidel zákazníků do a z autoservisu\nPomoc s manipulací vozidel v areálu servisu\nPříležitostná výpomoc s administrativou nebo zákaznickým servisem"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/stredOdbor"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Drivelab s.r.o.",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": 2158,
+            "cisloOrientacni": "10",
+            "dodatekAdresy": null,
+            "kodAdresnihoMista": 22771531,
+            "psc": null,
+            "typCislaDomovniho": {
+              "id": "TypStavebnihoObjektu/1"
+            },
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": {
+              "id": "MestskyObvodMestskaCast/500097"
+            },
+            "mestskyObvodVPraze": {
+              "id": "MestskyObvodVPraze/35"
+            },
+            "castObce": {
+              "id": "CastObce/490261"
+            },
+            "ulice": {
+              "nazev": "V okruží"
+            }
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "03732339",
+      "nazev": "Drivelab s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "nick@drivelab.cz",
+        "telefon": null,
+        "jmeno": null,
+        "prijmeni": "NIKOLAY VELICHKIN",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": "jednatel"
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Drivelab s.r.o.",
+        "adresa": {
+          "cisloDomovni": 2158,
+          "cisloOrientacni": "10",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22771531,
+          "psc": "13000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500097"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/35"
+          },
+          "castObce": {
+            "id": "CastObce/490261"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "V okruží"
+          }
+        }
+      }
+    }
+  },
+  {
     "portalId": 67119525,
     "id": "VolneMisto/67119525",
     "referencniCislo": "30598060726",
@@ -9149,161 +10331,6 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Jindřicha Plachty"
-          }
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67178372,
-    "id": "VolneMisto/67178372",
-    "referencniCislo": "17678610744",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-07-29T00:00:00.000Z",
-    "datumZmeny": "2025-12-16T22:48:50.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 22400,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-08-04",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Převoz vozidel zákazníků do a z autoservisu\nPomoc s manipulací vozidel v areálu servisu\nPříležitostná výpomoc s administrativou nebo zákaznickým servisem"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/stredOdbor"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Drivelab s.r.o.",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 2158,
-            "cisloOrientacni": "10",
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 22771531,
-            "psc": null,
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": {
-              "id": "MestskyObvodMestskaCast/500097"
-            },
-            "mestskyObvodVPraze": {
-              "id": "MestskyObvodVPraze/35"
-            },
-            "castObce": {
-              "id": "CastObce/490261"
-            },
-            "ulice": {
-              "nazev": "V okruží"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "03732339",
-      "nazev": "Drivelab s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "nick@drivelab.cz",
-        "telefon": null,
-        "jmeno": null,
-        "prijmeni": "NIKOLAY VELICHKIN",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": "jednatel"
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Drivelab s.r.o.",
-        "adresa": {
-          "cisloDomovni": 2158,
-          "cisloOrientacni": "10",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22771531,
-          "psc": "13000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500097"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/35"
-          },
-          "castObce": {
-            "id": "CastObce/490261"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "V okruží"
           }
         }
       }
@@ -9886,161 +10913,6 @@
     }
   },
   {
-    "portalId": 67205431,
-    "id": "VolneMisto/67205431",
-    "referencniCislo": "32158940785",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-11-04T00:00:00.000Z",
-    "datumZmeny": "2025-12-16T22:48:50.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 22400,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 2,
-    "pozadovanaProfese": {
-      "cs": "Řidiči ostatních speciálních vozidel"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-11-04",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Krychka Ivan, tel.: 777779074 - 10-11 hod\n\nřidičský průkaz sk. B"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Frigosh Trans s.r.o. - PRAHA",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "07945353",
-      "nazev": "Frigosh Trans s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": [
-      {
-        "dovednost": {
-          "id": "Dovednost/91"
-        },
-        "popis": null
-      }
-    ],
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": null,
-        "telefon": "777779074 - 10-11 hod",
-        "jmeno": "Ivan",
-        "prijmeni": "Krychka",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Frigosh Trans s.r.o.",
-        "adresa": {
-          "cisloDomovni": 1732,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22446664,
-          "psc": "19300",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/538213"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/94"
-          },
-          "castObce": {
-            "id": "CastObce/43770"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Lukavecká"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67210990,
     "id": "VolneMisto/67210990",
     "referencniCislo": "32260300741",
@@ -10190,6 +11062,161 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Rybná"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67205431,
+    "id": "VolneMisto/67205431",
+    "referencniCislo": "32158940785",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-11-04T00:00:00.000Z",
+    "datumZmeny": "2025-12-16T22:48:50.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 22400,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 2,
+    "pozadovanaProfese": {
+      "cs": "Řidiči ostatních speciálních vozidel"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-11-04",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Krychka Ivan, tel.: 777779074 - 10-11 hod\n\nřidičský průkaz sk. B"
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/obec"
+      },
+      "obec": {
+        "id": "Obec/554782"
+      },
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Frigosh Trans s.r.o. - PRAHA",
+          "telefon": null,
+          "adresa": {
+            "cisloDomovni": null,
+            "cisloOrientacni": null,
+            "dodatekAdresy": "Praha",
+            "kodAdresnihoMista": null,
+            "psc": null,
+            "typCislaDomovniho": null,
+            "kraj": {
+              "id": "Kraj/19"
+            },
+            "okres": null,
+            "obec": {
+              "id": "Obec/554782"
+            },
+            "mestskyObvodMestskaCast": null,
+            "mestskyObvodVPraze": null,
+            "castObce": null,
+            "nazevCastiObce": null,
+            "ulice": null
+          }
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "07945353",
+      "nazev": "Frigosh Trans s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": [
+      {
+        "dovednost": {
+          "id": "Dovednost/91"
+        },
+        "popis": null
+      }
+    ],
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "777779074 - 10-11 hod",
+        "jmeno": "Ivan",
+        "prijmeni": "Krychka",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Frigosh Trans s.r.o.",
+        "adresa": {
+          "cisloDomovni": 1732,
+          "cisloOrientacni": null,
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 22446664,
+          "psc": "19300",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/538213"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/94"
+          },
+          "castObce": {
+            "id": "CastObce/43770"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Lukavecká"
           }
         }
       }
@@ -11299,298 +12326,6 @@
     }
   },
   {
-    "portalId": 67178389,
-    "id": "VolneMisto/67178389",
-    "referencniCislo": "31667220722",
-    "azylant": false,
-    "cizinecMimoEu": false,
-    "datumVlozeni": "2025-07-29T00:00:00.000Z",
-    "datumZmeny": "2025-12-15T20:45:41.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 17500,
-    "modraKarta": false,
-    "pocetHodinTydne": 20,
-    "pocetMist": 2,
-    "pozadovanaProfese": {
-      "cs": "řidič/ka - vnitrostátní doprava"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-12-16",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "-rozvoz zboží z mlékárny Havl. Brod po ČR, jednodenní trasy\n-řid. průkaz B, spolehlivost, časová flexibilita, proaktivní přístup, schopnost manuální práce\nŽivotopis poslat na e-mail: prace@mafita.cz"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": false,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/usoSMat"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "MAFITA s.r.o. - pracoviště",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 4346,
-            "cisloOrientacni": null,
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": null,
-            "psc": "58001",
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/108"
-            },
-            "okres": {
-              "id": "Okres/3601"
-            },
-            "obec": {
-              "id": "Obec/568414"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": "Havlíčkův Brod",
-            "ulice": {
-              "nazev": "Bratříků"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "11944773",
-      "nazev": "MAFITA s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/dpc"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/HBA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "prace@mafita.cz",
-        "telefon": "777 275 150",
-        "jmeno": "Oldřich",
-        "prijmeni": "Bureš",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "MAFITA s.r.o. - pracoviště",
-        "adresa": {
-          "cisloDomovni": 4346,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": null,
-          "psc": "58001",
-          "typCislaDomovniho": null,
-          "kraj": {
-            "id": "Kraj/108"
-          },
-          "okres": {
-            "id": "Okres/3601"
-          },
-          "obec": {
-            "id": "Obec/568414"
-          },
-          "mestskyObvodMestskaCast": null,
-          "mestskyObvodVPraze": null,
-          "castObce": null,
-          "nazevCastiObce": "Havlíčkův Brod",
-          "ulice": {
-            "nazev": "Bratříků"
-          }
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67178390,
-    "id": "VolneMisto/67178390",
-    "referencniCislo": "31667200740",
-    "azylant": false,
-    "cizinecMimoEu": false,
-    "datumVlozeni": "2025-07-29T00:00:00.000Z",
-    "datumZmeny": "2025-12-15T20:45:41.000Z",
-    "mesicniMzdaDo": 35000,
-    "mesicniMzdaOd": 30000,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 2,
-    "pozadovanaProfese": {
-      "cs": "řidič/ka  - vnitrostátní doprava"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-12-16",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "-rozvoz zboží z mlékárny Havl. Brod po ČR, jednodenní trasy\n-řid. průkaz B, spolehlivost, časová flexibilita, proaktivní přístup, schopnost manuální práce\nŽivotopis poslat na e-mail: prace@mafita.cz"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": false,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/usoSMat"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "MAFITA s.r.o. - pracoviště",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 4346,
-            "cisloOrientacni": null,
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": null,
-            "psc": "58001",
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/108"
-            },
-            "okres": {
-              "id": "Okres/3601"
-            },
-            "obec": {
-              "id": "Obec/568414"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": "Havlíčkův Brod",
-            "ulice": {
-              "nazev": "Bratříků"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "11944773",
-      "nazev": "MAFITA s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/HBA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "prace@mafita.cz",
-        "telefon": "777 275 150",
-        "jmeno": "Oldřich",
-        "prijmeni": "Bureš",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "MAFITA s.r.o. - pracoviště",
-        "adresa": {
-          "cisloDomovni": 4346,
-          "cisloOrientacni": null,
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": null,
-          "psc": "58001",
-          "typCislaDomovniho": null,
-          "kraj": {
-            "id": "Kraj/108"
-          },
-          "okres": {
-            "id": "Okres/3601"
-          },
-          "obec": {
-            "id": "Obec/568414"
-          },
-          "mestskyObvodMestskaCast": null,
-          "mestskyObvodVPraze": null,
-          "castObce": null,
-          "nazevCastiObce": "Havlíčkův Brod",
-          "ulice": {
-            "nazev": "Bratříků"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67210138,
     "id": "VolneMisto/67210138",
     "referencniCislo": "17753810770",
@@ -11918,154 +12653,6 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Ještědská"
-          }
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67165730,
-    "id": "VolneMisto/67165730",
-    "referencniCislo": "31440400772",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-06-12T00:00:00.000Z",
-    "datumZmeny": "2025-12-15T08:03:04.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 22000,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-07-01",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Salim Ozhan Bozkur, tel.: 602 192 690"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/bezVzdel"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "OZYFOOD s.r.o. Praha",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "28490827",
-      "nazev": "OZYFOOD s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": null,
-        "telefon": "602 192 690",
-        "jmeno": null,
-        "prijmeni": "Salim Ozhan Bozkur",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "OZYFOOD s.r.o.",
-        "adresa": {
-          "cisloDomovni": 716,
-          "cisloOrientacni": "24",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 21723613,
-          "psc": "11000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500054"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/19"
-          },
-          "castObce": {
-            "id": "CastObce/400017"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Rybná"
           }
         }
       }
@@ -14857,141 +15444,6 @@
     }
   },
   {
-    "portalId": 67213673,
-    "id": "VolneMisto/67213673",
-    "referencniCislo": "32310600770",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-12-08T00:00:00.000Z",
-    "datumZmeny": "2025-12-08T23:00:26.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 23000,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči os. a malých dodáv. automobilů (kromě taxi a ř. ZDS)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-12-08",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": null,
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/okres"
-      },
-      "obec": null,
-      "okresy": [
-        {
-          "id": "Okres/3100"
-        },
-        {
-          "id": "Okres/3209"
-        },
-        {
-          "id": "Okres/3210"
-        }
-      ],
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Shop Food s.r.o. Praha-východ, Praha-západ, území Hlavního města Prahy",
-          "telefon": null,
-          "adresa": null
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "04631056",
-      "nazev": "Shop Food s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": null,
-        "telefon": "774 444 751",
-        "jmeno": null,
-        "prijmeni": "Krehul",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Shop Food s.r.o.",
-        "adresa": {
-          "cisloDomovni": 1417,
-          "cisloOrientacni": "25",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 21711810,
-          "psc": "11000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500054"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/19"
-          },
-          "castObce": {
-            "id": "CastObce/490148"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Opletalova"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67203432,
     "id": "VolneMisto/67203432",
     "referencniCislo": "32124680773",
@@ -15132,6 +15584,141 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Varšavská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67213673,
+    "id": "VolneMisto/67213673",
+    "referencniCislo": "32310600770",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-12-08T00:00:00.000Z",
+    "datumZmeny": "2025-12-08T23:00:26.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 23000,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči os. a malých dodáv. automobilů (kromě taxi a ř. ZDS)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-12-08",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": null,
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/okres"
+      },
+      "obec": null,
+      "okresy": [
+        {
+          "id": "Okres/3100"
+        },
+        {
+          "id": "Okres/3209"
+        },
+        {
+          "id": "Okres/3210"
+        }
+      ],
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Shop Food s.r.o. Praha-východ, Praha-západ, území Hlavního města Prahy",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "04631056",
+      "nazev": "Shop Food s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": null,
+        "telefon": "774 444 751",
+        "jmeno": null,
+        "prijmeni": "Krehul",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Shop Food s.r.o.",
+        "adresa": {
+          "cisloDomovni": 1417,
+          "cisloOrientacni": "25",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 21711810,
+          "psc": "11000",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/500054"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/19"
+          },
+          "castObce": {
+            "id": "CastObce/490148"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Opletalova"
           }
         }
       }
@@ -33018,154 +33605,6 @@
     }
   },
   {
-    "portalId": 67192765,
-    "id": "VolneMisto/67192765",
-    "referencniCislo": "31920180717",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-09-15T00:00:00.000Z",
-    "datumZmeny": "2025-10-27T08:02:41.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 4,
-    "pozadovanaProfese": {
-      "cs": "Řidiči os. a malých dodávkových automobilů"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-09-15",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Kholivchuk Oksana, e-mail: kholivchuk@seznam.cz \n\nŘidičský průkaz skupiny B"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "ROKSANA s.r.o. Praha",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "06555071",
-      "nazev": "ROKSANA s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "kholivchuk@seznam.cz ",
-        "telefon": null,
-        "jmeno": "Oksana",
-        "prijmeni": "Kholivchuk",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": "jednatelka"
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "ROKSANA s.r.o.",
-        "adresa": {
-          "cisloDomovni": 1246,
-          "cisloOrientacni": "2",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 21950407,
-          "psc": "14000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500119"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/43"
-          },
-          "castObce": {
-            "id": "CastObce/490156"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Spolupráce"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67196078,
     "id": "VolneMisto/67196078",
     "referencniCislo": "31984260760",
@@ -35164,154 +35603,6 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Na Blatech"
-          }
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67197664,
-    "id": "VolneMisto/67197664",
-    "referencniCislo": "32014980757",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-10-06T00:00:00.000Z",
-    "datumZmeny": "2025-10-16T23:40:22.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 22000,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 3,
-    "pozadovanaProfese": {
-      "cs": "Řidiči os. a malých dodáv. automobilů"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-10-10",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Salim Ozhan Bozkur, tel.: 602 192 690"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "OZYFOOD s.r.o. Praha",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "28490827",
-      "nazev": "OZYFOOD s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": null,
-        "telefon": "602 192 690",
-        "jmeno": null,
-        "prijmeni": "Salim Ozhan Bozkur",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "OZYFOOD s.r.o.",
-        "adresa": {
-          "cisloDomovni": 716,
-          "cisloOrientacni": "24",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 21723613,
-          "psc": "11000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500054"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/19"
-          },
-          "castObce": {
-            "id": "CastObce/400017"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Rybná"
           }
         }
       }
@@ -40248,131 +40539,6 @@
     }
   },
   {
-    "portalId": 67195396,
-    "id": "VolneMisto/67195396",
-    "referencniCislo": "17720070775",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-09-29T00:00:00.000Z",
-    "datumZmeny": "2025-10-01T08:04:44.000Z",
-    "mesicniMzdaDo": 10400,
-    "mesicniMzdaOd": 4499,
-    "modraKarta": false,
-    "pocetHodinTydne": 20,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": "2026-03-31",
-    "terminZahajeniPracovnihoPomeru": "2025-10-19",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": null,
-    "urlAdresa": null,
-    "zamestnaneckaKarta": false,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/bezVzdel"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "MeDe-NAVI s.r.o. celá ČR",
-          "telefon": null,
-          "adresa": null
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "22519441",
-      "nazev": "MeDe-NAVI s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/dpc"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "medenavis.r.o@gmail.com",
-        "telefon": "775 510 265 po-pa 8-16",
-        "jmeno": null,
-        "prijmeni": "László Medenci",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "MeDe-NAVI s.r.o.",
-        "adresa": {
-          "cisloDomovni": 986,
-          "cisloOrientacni": "19",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 25017039,
-          "psc": "10400",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/538931"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/108"
-          },
-          "castObce": {
-            "id": "CastObce/173428"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Přátelství"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67196485,
     "id": "VolneMisto/67196485",
     "referencniCislo": "31990420745",
@@ -40522,6 +40688,131 @@
           "nazevCastiObce": null,
           "ulice": {
             "nazev": "Korunní"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 67195396,
+    "id": "VolneMisto/67195396",
+    "referencniCislo": "17720070775",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2025-09-29T00:00:00.000Z",
+    "datumZmeny": "2025-10-01T08:04:44.000Z",
+    "mesicniMzdaDo": 10400,
+    "mesicniMzdaOd": 4499,
+    "modraKarta": false,
+    "pocetHodinTydne": 20,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": "2026-03-31",
+    "terminZahajeniPracovnihoPomeru": "2025-10-19",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": null,
+    "urlAdresa": null,
+    "zamestnaneckaKarta": false,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/bezVzdel"
+    },
+    "smennost": {
+      "id": "Smennost/jednoSm"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/adrprov"
+      },
+      "obec": null,
+      "okresy": null,
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "MeDe-NAVI s.r.o. celá ČR",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "22519441",
+      "nazev": "MeDe-NAVI s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/dpc"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/ABA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "medenavis.r.o@gmail.com",
+        "telefon": "775 510 265 po-pa 8-16",
+        "jmeno": null,
+        "prijmeni": "László Medenci",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "MeDe-NAVI s.r.o.",
+        "adresa": {
+          "cisloDomovni": 986,
+          "cisloOrientacni": "19",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 25017039,
+          "psc": "10400",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/19"
+          },
+          "okres": null,
+          "obec": {
+            "id": "Obec/554782"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/538931"
+          },
+          "mestskyObvodVPraze": {
+            "id": "MestskyObvodVPraze/108"
+          },
+          "castObce": {
+            "id": "CastObce/173428"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Přátelství"
           }
         }
       }
@@ -42184,159 +42475,6 @@
           "castObce": null,
           "nazevCastiObce": "Brno-město",
           "ulice": null
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67181157,
-    "id": "VolneMisto/67181157",
-    "referencniCislo": "17686330780",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-08-08T00:00:00.000Z",
-    "datumZmeny": "2025-09-22T00:25:14.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 21800,
-    "modraKarta": false,
-    "pocetHodinTydne": 40,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-08-08",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": null,
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/pruznaPd"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": "zorilo@auditure.cz",
-          "nazev": "Optima Board Control s.r.o. Kloboukova č.p. 1180/17",
-          "telefon": "+420605442780",
-          "adresa": {
-            "cisloDomovni": 1180,
-            "cisloOrientacni": "17",
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 22714138,
-            "psc": null,
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": {
-              "id": "MestskyObvodMestskaCast/547034"
-            },
-            "mestskyObvodVPraze": {
-              "id": "MestskyObvodVPraze/43"
-            },
-            "castObce": {
-              "id": "CastObce/400211"
-            },
-            "ulice": {
-              "nazev": "Kloboukova"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "17227721",
-      "nazev": "Optima Board Control s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "zorilo@auditure.cz",
-        "telefon": "+420605442780",
-        "jmeno": "Kseniia",
-        "prijmeni": "Zorilo",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": "účetní"
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Optima Board Control s.r.o.",
-        "adresa": {
-          "cisloDomovni": 429,
-          "cisloOrientacni": "245",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22113754,
-          "psc": "15500",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/539694"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/51"
-          },
-          "castObce": {
-            "id": "CastObce/490172"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Plzeňská"
-          }
         }
       }
     }
@@ -45392,15 +45530,15 @@
     }
   },
   {
-    "portalId": 67184661,
-    "id": "VolneMisto/67184661",
-    "referencniCislo": "31775720751",
+    "portalId": 67184204,
+    "id": "VolneMisto/67184204",
+    "referencniCislo": "31775700769",
     "azylant": true,
     "cizinecMimoEu": true,
-    "datumVlozeni": "2025-08-19T00:00:00.000Z",
+    "datumVlozeni": "2025-09-03T00:00:00.000Z",
     "datumZmeny": "2025-09-03T23:13:54.000Z",
     "mesicniMzdaDo": 30000,
-    "mesicniMzdaOd": 25376,
+    "mesicniMzdaOd": 25000,
     "modraKarta": false,
     "pocetHodinTydne": null,
     "pocetMist": 10,
@@ -45416,7 +45554,7 @@
       "cs": "kontakt - ALIAKSANDR PAVARYCH, e-mail: a.pavarich@gmail.com\n\nPŘEPRAVA ZBOŽÍ"
     },
     "urlAdresa": null,
-    "zamestnaneckaKarta": true,
+    "zamestnaneckaKarta": false,
     "expirace": null,
     "minPozadovaneVzdelani": {
       "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
@@ -45525,15 +45663,15 @@
     }
   },
   {
-    "portalId": 67184204,
-    "id": "VolneMisto/67184204",
-    "referencniCislo": "31775700769",
+    "portalId": 67184661,
+    "id": "VolneMisto/67184661",
+    "referencniCislo": "31775720751",
     "azylant": true,
     "cizinecMimoEu": true,
-    "datumVlozeni": "2025-09-03T00:00:00.000Z",
+    "datumVlozeni": "2025-08-19T00:00:00.000Z",
     "datumZmeny": "2025-09-03T23:13:54.000Z",
     "mesicniMzdaDo": 30000,
-    "mesicniMzdaOd": 25000,
+    "mesicniMzdaOd": 25376,
     "modraKarta": false,
     "pocetHodinTydne": null,
     "pocetMist": 10,
@@ -45549,7 +45687,7 @@
       "cs": "kontakt - ALIAKSANDR PAVARYCH, e-mail: a.pavarich@gmail.com\n\nPŘEPRAVA ZBOŽÍ"
     },
     "urlAdresa": null,
-    "zamestnaneckaKarta": false,
+    "zamestnaneckaKarta": true,
     "expirace": null,
     "minPozadovaneVzdelani": {
       "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
@@ -51984,152 +52122,6 @@
     }
   },
   {
-    "portalId": 67126683,
-    "id": "VolneMisto/67126683",
-    "referencniCislo": "30515720724",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-01-07T00:00:00.000Z",
-    "datumZmeny": "2025-07-14T00:15:33.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 21300,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 2,
-    "pozadovanaProfese": {
-      "cs": "Řidiči osobních a malých dodávkových automobilů (kromě taxikářů a řidičů zdravotnické dopravní služby)"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-01-10",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": null,
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/obec"
-      },
-      "obec": {
-        "id": "Obec/554782"
-      },
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "PJ Solution s.r.o. Praha",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": null,
-            "cisloOrientacni": null,
-            "dodatekAdresy": "Praha",
-            "kodAdresnihoMista": null,
-            "psc": null,
-            "typCislaDomovniho": null,
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": null,
-            "mestskyObvodVPraze": null,
-            "castObce": null,
-            "nazevCastiObce": null,
-            "ulice": null
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "08956944",
-      "nazev": "PJ Solution s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": null,
-        "telefon": "774919900",
-        "jmeno": null,
-        "prijmeni": "Voloshchuk",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "PJ Solution s.r.o.",
-        "adresa": {
-          "cisloDomovni": 1208,
-          "cisloOrientacni": "74",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22650822,
-          "psc": "10100",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500224"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/108"
-          },
-          "castObce": {
-            "id": "CastObce/490229"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Korunní"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 67174036,
     "id": "VolneMisto/67174036",
     "referencniCislo": "31587980743",
@@ -53035,161 +53027,6 @@
           },
           "nazevCastiObce": null,
           "ulice": null
-        }
-      }
-    }
-  },
-  {
-    "portalId": 67171827,
-    "id": "VolneMisto/67171827",
-    "referencniCislo": "31549780785",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2025-06-27T00:00:00.000Z",
-    "datumZmeny": "2025-07-03T23:04:59.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "ŘIDIČ / KA SKUPINY B"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-06-27",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "PRVOTNÍ KONTAKT E-MAILEM - Korban Artem, e-mail: koraartem@gmail.com\n\nPlatný řidičský průkaz sk. B. \nZnalost ukrajinského a ruského jazyků. \nSpolehlivost a zodpovědný přístup k práci. \n"
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/usoSMatVyuc"
-    },
-    "smennost": {
-      "id": "Smennost/jednoSm"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/adrprov"
-      },
-      "obec": null,
-      "okresy": null,
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "RoadInst s.r.o.",
-          "telefon": null,
-          "adresa": {
-            "cisloDomovni": 524,
-            "cisloOrientacni": "26",
-            "dodatekAdresy": null,
-            "kodAdresnihoMista": 22378847,
-            "psc": null,
-            "typCislaDomovniho": {
-              "id": "TypStavebnihoObjektu/1"
-            },
-            "kraj": {
-              "id": "Kraj/19"
-            },
-            "okres": null,
-            "obec": {
-              "id": "Obec/554782"
-            },
-            "mestskyObvodMestskaCast": {
-              "id": "MestskyObvodMestskaCast/500208"
-            },
-            "mestskyObvodVPraze": {
-              "id": "MestskyObvodVPraze/86"
-            },
-            "castObce": {
-              "id": "CastObce/490105"
-            },
-            "ulice": {
-              "nazev": "Prosecká"
-            }
-          }
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "17811457",
-      "nazev": "RoadInst s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/ABA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "koraartem@gmail.com",
-        "telefon": null,
-        "jmeno": null,
-        "prijmeni": "Korban Artem",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "RoadInst s.r.o.",
-        "adresa": {
-          "cisloDomovni": 524,
-          "cisloOrientacni": "26",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 22378847,
-          "psc": "18000",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/19"
-          },
-          "okres": null,
-          "obec": {
-            "id": "Obec/554782"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/500208"
-          },
-          "mestskyObvodVPraze": {
-            "id": "MestskyObvodVPraze/86"
-          },
-          "castObce": {
-            "id": "CastObce/490105"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Prosecká"
-          }
         }
       }
     }
@@ -55978,155 +55815,6 @@
     }
   },
   {
-    "portalId": 66930305,
-    "id": "VolneMisto/66930305",
-    "referencniCislo": "27006280706",
-    "azylant": false,
-    "cizinecMimoEu": true,
-    "datumVlozeni": "2023-03-01T00:00:00.000Z",
-    "datumZmeny": "2025-01-07T19:16:55.000Z",
-    "mesicniMzdaDo": null,
-    "mesicniMzdaOd": 20800,
-    "modraKarta": false,
-    "pocetHodinTydne": null,
-    "pocetMist": 1,
-    "pozadovanaProfese": {
-      "cs": "Řidič - řidička"
-    },
-    "statniSpravaSamosprava": false,
-    "terminUkonceniPracovnihoPomeru": null,
-    "terminZahajeniPracovnihoPomeru": "2025-01-07",
-    "souhlasAgenturyAgentura": false,
-    "souhlasAgenturyUzivatel": false,
-    "upresnujiciInformace": {
-      "cs": "Zaměstnanecké výhody:\nFiremní stravování, příspěvek na dovolenou."
-    },
-    "urlAdresa": null,
-    "zamestnaneckaKarta": true,
-    "expirace": null,
-    "minPozadovaneVzdelani": {
-      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
-    },
-    "smennost": {
-      "id": "Smennost/pruznaPd"
-    },
-    "typMzdy": {
-      "id": "TypMzdy/mesic"
-    },
-    "zverejnovat": {
-      "id": "ZverejnovatVpm/ano"
-    },
-    "mistoVykonuPrace": {
-      "typMistaVykonuPrace": {
-        "id": "TypMistaVykonuPrace/okres"
-      },
-      "obec": null,
-      "okresy": [
-        {
-          "id": "Okres/3401"
-        },
-        {
-          "id": "Okres/3404"
-        },
-        {
-          "id": "Okres/3405"
-        },
-        {
-          "id": "Okres/3406"
-        },
-        {
-          "id": "Okres/3407"
-        },
-        {
-          "id": "Okres/3408"
-        },
-        {
-          "id": "Okres/3410"
-        }
-      ],
-      "adresaText": null,
-      "pracoviste": [
-        {
-          "email": null,
-          "nazev": "Pizza Doma - Plzeňský kraj",
-          "telefon": null,
-          "adresa": null
-        }
-      ]
-    },
-    "zamestnavatel": {
-      "ico": "05433100",
-      "nazev": "Lauch s.r.o."
-    },
-    "profeseCzIsco": {
-      "id": "CzIsco/83221"
-    },
-    "pracovnePravniVztahy": [
-      {
-        "id": "PracovnepravniVztah/plny"
-      }
-    ],
-    "vhodnostiPracovnihoMista": [
-      {
-        "id": "VhodnostProTypZamestnance/zdravi"
-      }
-    ],
-    "kontaktniPracoviste": {
-      "id": "KontaktniPracoviste/PMA"
-    },
-    "vyhodyVolnehoMista": null,
-    "pozadovanaDovednost": null,
-    "pozadovanaJazykovaZnalost": null,
-    "pozadovanePovolani": null,
-    "pozadovaneVzdelani": null,
-    "prvniKontaktSeZamestnavatelem": {
-      "komuSeHlasit": {
-        "email": "carepido@gmail.com",
-        "telefon": "732244188",
-        "jmeno": "Libor",
-        "prijmeni": "Hájek",
-        "titulPredJmenem": null,
-        "titulZaJmenem": null,
-        "poziceVeSpolecnosti": null
-      },
-      "kdeSeHlasit": {
-        "email": null,
-        "telefon": null,
-        "mistoKontaktu": "Pizza Doma",
-        "adresa": {
-          "cisloDomovni": 1327,
-          "cisloOrientacni": "74",
-          "dodatekAdresy": null,
-          "kodAdresnihoMista": 24427926,
-          "psc": "32300",
-          "typCislaDomovniho": {
-            "id": "TypStavebnihoObjektu/1"
-          },
-          "kraj": {
-            "id": "Kraj/43"
-          },
-          "okres": {
-            "id": "Okres/3405"
-          },
-          "obec": {
-            "id": "Obec/554791"
-          },
-          "mestskyObvodMestskaCast": {
-            "id": "MestskyObvodMestskaCast/545970"
-          },
-          "mestskyObvodVPraze": null,
-          "castObce": {
-            "id": "CastObce/122122"
-          },
-          "nazevCastiObce": null,
-          "ulice": {
-            "nazev": "Sokolovská"
-          }
-        }
-      }
-    }
-  },
-  {
     "portalId": 66910877,
     "id": "VolneMisto/66910877",
     "referencniCislo": "26633500782",
@@ -56455,6 +56143,155 @@
           "cisloOrientacni": "66",
           "dodatekAdresy": null,
           "kodAdresnihoMista": 24425125,
+          "psc": "32300",
+          "typCislaDomovniho": {
+            "id": "TypStavebnihoObjektu/1"
+          },
+          "kraj": {
+            "id": "Kraj/43"
+          },
+          "okres": {
+            "id": "Okres/3405"
+          },
+          "obec": {
+            "id": "Obec/554791"
+          },
+          "mestskyObvodMestskaCast": {
+            "id": "MestskyObvodMestskaCast/545970"
+          },
+          "mestskyObvodVPraze": null,
+          "castObce": {
+            "id": "CastObce/122122"
+          },
+          "nazevCastiObce": null,
+          "ulice": {
+            "nazev": "Sokolovská"
+          }
+        }
+      }
+    }
+  },
+  {
+    "portalId": 66930305,
+    "id": "VolneMisto/66930305",
+    "referencniCislo": "27006280706",
+    "azylant": false,
+    "cizinecMimoEu": true,
+    "datumVlozeni": "2023-03-01T00:00:00.000Z",
+    "datumZmeny": "2025-01-07T19:16:55.000Z",
+    "mesicniMzdaDo": null,
+    "mesicniMzdaOd": 20800,
+    "modraKarta": false,
+    "pocetHodinTydne": null,
+    "pocetMist": 1,
+    "pozadovanaProfese": {
+      "cs": "Řidič - řidička"
+    },
+    "statniSpravaSamosprava": false,
+    "terminUkonceniPracovnihoPomeru": null,
+    "terminZahajeniPracovnihoPomeru": "2025-01-07",
+    "souhlasAgenturyAgentura": false,
+    "souhlasAgenturyUzivatel": false,
+    "upresnujiciInformace": {
+      "cs": "Zaměstnanecké výhody:\nFiremní stravování, příspěvek na dovolenou."
+    },
+    "urlAdresa": null,
+    "zamestnaneckaKarta": true,
+    "expirace": null,
+    "minPozadovaneVzdelani": {
+      "id": "VzdelaniDetailniKategorie/zaklPraktSkol"
+    },
+    "smennost": {
+      "id": "Smennost/pruznaPd"
+    },
+    "typMzdy": {
+      "id": "TypMzdy/mesic"
+    },
+    "zverejnovat": {
+      "id": "ZverejnovatVpm/ano"
+    },
+    "mistoVykonuPrace": {
+      "typMistaVykonuPrace": {
+        "id": "TypMistaVykonuPrace/okres"
+      },
+      "obec": null,
+      "okresy": [
+        {
+          "id": "Okres/3401"
+        },
+        {
+          "id": "Okres/3404"
+        },
+        {
+          "id": "Okres/3405"
+        },
+        {
+          "id": "Okres/3406"
+        },
+        {
+          "id": "Okres/3407"
+        },
+        {
+          "id": "Okres/3408"
+        },
+        {
+          "id": "Okres/3410"
+        }
+      ],
+      "adresaText": null,
+      "pracoviste": [
+        {
+          "email": null,
+          "nazev": "Pizza Doma - Plzeňský kraj",
+          "telefon": null,
+          "adresa": null
+        }
+      ]
+    },
+    "zamestnavatel": {
+      "ico": "05433100",
+      "nazev": "Lauch s.r.o."
+    },
+    "profeseCzIsco": {
+      "id": "CzIsco/83221"
+    },
+    "pracovnePravniVztahy": [
+      {
+        "id": "PracovnepravniVztah/plny"
+      }
+    ],
+    "vhodnostiPracovnihoMista": [
+      {
+        "id": "VhodnostProTypZamestnance/zdravi"
+      }
+    ],
+    "kontaktniPracoviste": {
+      "id": "KontaktniPracoviste/PMA"
+    },
+    "vyhodyVolnehoMista": null,
+    "pozadovanaDovednost": null,
+    "pozadovanaJazykovaZnalost": null,
+    "pozadovanePovolani": null,
+    "pozadovaneVzdelani": null,
+    "prvniKontaktSeZamestnavatelem": {
+      "komuSeHlasit": {
+        "email": "carepido@gmail.com",
+        "telefon": "732244188",
+        "jmeno": "Libor",
+        "prijmeni": "Hájek",
+        "titulPredJmenem": null,
+        "titulZaJmenem": null,
+        "poziceVeSpolecnosti": null
+      },
+      "kdeSeHlasit": {
+        "email": null,
+        "telefon": null,
+        "mistoKontaktu": "Pizza Doma",
+        "adresa": {
+          "cisloDomovni": 1327,
+          "cisloOrientacni": "74",
+          "dodatekAdresy": null,
+          "kodAdresnihoMista": 24427926,
           "psc": "32300",
           "typCislaDomovniho": {
             "id": "TypStavebnihoObjektu/1"
